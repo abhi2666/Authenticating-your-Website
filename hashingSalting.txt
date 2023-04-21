@@ -1,0 +1,5 @@
+Hashing --> is the process of converting your important data like passwd and convert it into a hexadecimal code
+(32 characters in case of md5).
+
+we have used md5 first which slightly older and then later we used bcrypt.
+Bcrypt is slightly stronger hashing algo which uses salting to generate more complex hash.
